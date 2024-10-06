@@ -81,7 +81,7 @@ The program outputs candlestick data in the following format:
 Additionally, a text-based graph of predicted temperatures is generated using * to represent temperature values on a day-by-day basis.
 
 
-### Predicting Future Temperatures
+#### Predicting Future Temperatures
 The program uses historical averages to forecast daily temperatures for the selected country in the year 2020. It generates a daily prediction and visualizes the trend using a text-based graph.
 
 ### License
