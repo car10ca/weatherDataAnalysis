@@ -1,7 +1,9 @@
 # Weather Analysis Toolkit
 
 ## Overview
-This repository contains the implementation of a command-line weather analysis toolkit, developed as part of the **CM2005 Object Oriented Programming** midterm assignment for the BSc in Computer Science program. The toolkit is designed to visualize and predict weather data for various European countries using candlestick data representations and a text-based plotting system.
+This repository contains the implementation of a command-line weather analysis toolkit, developed as part of a midterm assignment for a BSc in Computer Science program at a UK university. The toolkit is designed to visualize and predict weather data for various European countries using candlestick data representations and a text-based plotting system.
+
+This project scored 86% where anything 70% and up is considered an A. 
 
 ## Features
 The toolkit offers the following features:
@@ -84,11 +86,6 @@ Additionally, a text-based graph of predicted temperatures is generated using * 
 #### Predicting Future Temperatures
 The program uses historical averages to forecast daily temperatures for the selected country in the year 2020. It generates a daily prediction and visualizes the trend using a text-based graph.
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Author
-This project was developed as part of a university midterm assignment for the CM2005 Object Oriented Programming course in the BSc Computer Science program.
 
-Developed by: Kerstin Kegel
-GitHub: car10ca
+
